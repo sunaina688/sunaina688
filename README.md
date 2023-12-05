@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunaina688&label=Profile%20views&color=0e75b6&style=flat" alt="sunaina688" /> </p>
 
-- 🔭 I’m currently working on **Fix A Date-Meet your Doctor**
+- 🔭 I have recently completed a php project- **Fix A Date-Meet your Doctor**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Javascript**
 
 - 👯 I’m looking to collaborate on **Data Structure & Algorithm**
 
-- 🤝 I’m looking for help with **Machine Learning**
+- 🤝 I’m looking for help with **Cloud Computing**
 
 - 📫 How to reach me **sunainac842@gmail.com**
 
